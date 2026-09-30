@@ -1,0 +1,13 @@
+VoiceLex Sample History
+=======================
+
+Sample test searches:
+
+Word: algorithm
+Meaning: A procedure or set of rules used to solve a problem.
+
+Word: computer
+Meaning: An electronic device that processes and stores data.
+
+Word: network
+Meaning: A group of interconnected computers or devices.
