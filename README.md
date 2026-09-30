@@ -4,9 +4,9 @@
 
 | Name | Register Number |
 |---|---|
-| [YOUR NAME] | [YOUR REGISTER NUMBER] |
-| [TEAM MEMBER 2] | [REGISTER NUMBER] |
-| [TEAM MEMBER 3] | [REGISTER NUMBER] |
+| SAHANA A | RA2311003050030 |
+| MONISHA D | RA2311003050209 |
+| SHALINI S V | RA2311003050240 |
 
 ## Tool Purpose
 
@@ -283,22 +283,6 @@ git branch -M main
 git remote add origin YOUR_GITHUB_REPOSITORY_URL
 git push -u origin main
 ```
-
-Replace `YOUR_GITHUB_REPOSITORY_URL` with your GitHub repository URL.
-
-## Student Details
-
-**Name:** [YOUR NAME]
-
-**Register Number:** [YOUR REGISTER NUMBER]
-
-**Class:** [YOUR CLASS]
-
-**Department:** [YOUR DEPARTMENT]
-
-**Team Members:** [ADD TEAM MEMBERS]
-
-**Institution:** [YOUR INSTITUTION]
 
 ## Conclusion
 
